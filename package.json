@@ -1,0 +1,19 @@
+{
+    "name": "nodevntk",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@fastify/cors": "^8.2.1",
+        "express": "^4.18.2",
+        "fastify": "^4.15.0",
+        "vntk": "^1.4.4"
+    }
+}
